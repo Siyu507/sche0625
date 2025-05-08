@@ -7,6 +7,4 @@ Questionnaire-style symptom input
 
 Handling of files for saving or retrieving the history of the users
 
-Modular function design following COMP9001 principles
-
 This is an exciting feature for those who wants to control it personally: you are welcome to try the code and make it work in your local environment!
